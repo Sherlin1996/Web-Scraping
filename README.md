@@ -8,4 +8,5 @@
 
 ### :pencil2: 成果:
 [**觀看儀錶板**](https://public.tableau.com/views/ScrappingYahooTop100ETF/ETF?:language=zh-TW&:display_count=n&:origin=viz_share_link)
-![GitHub Icon](high_ETF.PNG)
+
+<img width="1000" alt="high_ETF" src="https://github.com/Sherlin1996/Web-Scraping/assets/106952827/25e331f0-9e76-4136-96dc-a8710420f13b">
