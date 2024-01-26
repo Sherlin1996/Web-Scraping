@@ -1,4 +1,4 @@
-## :white_check_mark: TOP100 ETF from Yahoo
+## :white_check_mark: TOP100 ETF from Yahoo website
 * **爬取奇摩股市當天成交量前100的ETF，包含股名、股號、股價、漲跌幅，製作客製化股票排行榜。**
 
 
